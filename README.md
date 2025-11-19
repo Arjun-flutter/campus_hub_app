@@ -37,7 +37,7 @@ Store screenshots in the `screenshots/` folder of this repository.
 <img src="screenshots/login.png" width="260">
 
 ### 🔹 Home Screen  
-<img src="screenshots/home.png" width="260">
+<img src="screenshots/homepage.png" width="260">
 
 ### 🔹 Profile Screen  
 <img src="screenshots/profile.png" width="260">
