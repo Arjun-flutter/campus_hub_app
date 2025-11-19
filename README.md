@@ -1,16 +1,43 @@
-# campus_hub_app
+# 📱 Campus Hub App
 
-A new Flutter project.
+A simple and clean **Flutter student companion app** designed for learning, UI practice, and resume projects.  
+This app includes a dummy login system, dashboard, profile page, notes, tasks, and timetable screens.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **Dummy Login System**
+- 🏠 **Home Dashboard**
+- 👤 **Profile Page**
+- 📝 **Notes Screen**
+- 🎯 **Tasks / To-Do Screen**
+- 📅 **Timetable Screen**
+- 🎨 Clean Material UI with custom colors
+- 🌐 Runs on **Android, iOS, and Web**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔑 Dummy Login Credentials
+
+Use these credentials for demo login:
+
+| Field     | Value                     |
+|-----------|---------------------------|
+| **Email** | `campusbuddy@demo.com`    |
+| **Password** | `Campus@123`          |
+
+---
+
+## 📸 App Screenshots
+
+Store screenshots in the `screenshots/` folder of this repository.
+
+### 🔹 Login Screen  
+<img src="screenshots/login.png" width="260">
+
+### 🔹 Home Screen  
+<img src="screenshots/home.png" width="260">
+
+### 🔹 Profile Screen  
+<img src="screenshots/profile.png" width="260">
