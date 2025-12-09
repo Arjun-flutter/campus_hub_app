@@ -35,7 +35,6 @@ class _CampusHubAppState extends State<CampusHubApp> {
         "loginScreen": (context) => const LoginScreen(),
         "studentListScreen": (context) => const StudentListScreen(),
       },
-      //home: const LoginScreen(),
       theme: ThemeData(
         brightness: Brightness.light,
         primarySwatch: Colors.indigo,
